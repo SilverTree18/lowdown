@@ -1,6 +1,6 @@
 // exports here that can be grabbed by somethng else. conntollers requre them
 
 module.exports = {
-	Headline: require ("./Headline"),
+	Article: require ("./Article"),
 	Note: require ("./Note")
 }

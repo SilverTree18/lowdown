@@ -1,1 +1,0 @@
-goes wth scrape js
